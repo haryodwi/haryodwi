@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My certificatea :**
+**My certificates :**
 
 * Belajar Dasar Git dengan GitHub https://www.dicoding.com/certificates/ERZR4JM5OZYV
 * Belajar Membuat Aplikasi Android untuk Pemula https://www.dicoding.com/certificates/6RPN8WW64Z2M
