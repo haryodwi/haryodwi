@@ -1,8 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/wave.gif" width="30px"> , I'm Haryo!
   
-I'm new learning in software development, and I've never worked in a software developer before, but I love to learn new things in programming, because the  technology in the future will be very advanced so I must be able to master it.
-
-I'm currently studying a programming language like JavaScript, and Solidity.
+I am new to programming.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
  
