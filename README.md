@@ -5,16 +5,12 @@ I'm new learning in software development, and I've never worked in a software de
 I'm currently studying a programming language like JavaScript, and Solidity.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
-
-Now I'm enjoyed in JavaScript and I will make it the main language that I will learn in creating a project.
-
-- 🧑🏻‍💻 I’m currently learning about how to make back-end apps with clean architecture and cloud technology for back-end apps
-- 🖥 To fill my spare time, i learned ethereum blockchain with solidity, web3.js and made some small projects for myself
-- 📫 How to reach me: hendrawahyu26@gmail.com
+ 
+- 📫 How to reach me: haryodwi@gmail.com
  
 
 ![Profile Views](https://gpvc.arturio.dev/haryodwi)
-<a href="https://www.linkedin.com/in/hendra-wahyu-saputro-a48b68212/"><img src="https://img.shields.io/badge/-linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5" /></a>
+<a href="https://www.linkedin.com/in/haryodwi/"><img src="https://img.shields.io/badge/-linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5" /></a>
 
 ### ⚡ Tools and Technologies:
 ![Intellij_IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
