@@ -1,33 +1,39 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/wave.gif" width="30px"> , I'm Haryo!
+  
+I'm new learning in software development, and I've never worked in a software developer before, but I love to learn new things in programming, because the  technology in the future will be very advanced so I must be able to master it.
 
-**My certificates :**
+I'm currently studying a programming language like JavaScript, and Solidity.
 
-* Belajar Dasar Git dengan GitHub https://www.dicoding.com/certificates/ERZR4JM5OZYV
-* Belajar Membuat Aplikasi Android untuk Pemula https://www.dicoding.com/certificates/6RPN8WW64Z2M
-* Memulai Pemrograman Dengan Java https://www.dicoding.com/certificates/NVP71E1NGPR0
-* Memulai Pemrograman Dengan Kotlin  https://www.dicoding.com/certificates/JLX13DDGJP72
-* Memulai Pemrograman Dengan Python https://www.dicoding.com/certificates/0LZ0D727QX65
-* Memulai Pemrograman Dengan C https://www.dicoding.com/certificates/1OP8LE6Y8ZQK
-* Belajar Prinsip Pemrograman SOLID https://www.dicoding.com/certificates/QLZ911N92P5D
-* Belajar Dasar Visualisasi Data https://www.dicoding.com/certificates/NVP7GD7R4XR0
-* Memulai Dasar Pemrograman untuk Menjadi Pengembang Software https://www.dicoding.com/certificates/JLX13EG0NP72
-* Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) https://www.dicoding.com/certificates/53XEER48VXRN
-* Architecting on AWS (Membangun Arsitektur Cloud di AWS) https://www.dicoding.com/certificates/RVZK11MGMPD5
-* Meniti Karier sebagai Software Developer https://www.dicoding.com/certificates/4EXG6G5Y9ZRL
-* Pengenalan Data pada Pemrograman (Data 101) https://www.dicoding.com/certificates/N9ZOEJ7DYXG5
-* Pengenalan ke Logika Pemrograman (Programming Logic 101) https://www.dicoding.com/certificates/0LZ03E1DNZ65
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
 
-<!--
-**haryodwi/haryodwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now I'm enjoyed in JavaScript and I will make it the main language that I will learn in creating a project.
 
-Here are some ideas to get you started:
+- 🧑🏻‍💻 I’m currently learning about how to make back-end apps with clean architecture and cloud technology for back-end apps
+- 🖥 To fill my spare time, i learned ethereum blockchain with solidity, web3.js and made some small projects for myself
+- 📫 How to reach me: hendrawahyu26@gmail.com
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://gpvc.arturio.dev/haryodwi)
+<a href="https://www.linkedin.com/in/hendra-wahyu-saputro-a48b68212/"><img src="https://img.shields.io/badge/-linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5" /></a>
+
+### ⚡ Tools and Technologies:
+![Intellij_IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![VSCode](https://img.shields.io/badge/Text_Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![Amazon AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![Node_JS](https://img.shields.io/badge/Tools-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+</br>
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+
+  
+### 📈 Github Statistic
+<p align="left" dir="auto">
+    <a href="https://github.com/whysaputro">
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haryodwi&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haryodwi&layout=compact&langs_count=8&theme=ayu-mirage" style="max-width: 100%;"/>
+    </a>
+</p>
