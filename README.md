@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/wave.gif" width="30px"> , I'm Haryo!
-  
-I am new to programming.
+ 
+Currently i am a student in Asia Cyber University, majoring Informations Systems. Computer Science is not a new thing to me, yet developing systems is a totally different ball game. Now i an intensive training mode trying to be an expert in IT. I have interest in Systems Development, Data Science, and Machine Learning. I really hope in the future i will be able contribute in global tech company!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
  
@@ -26,7 +26,7 @@ I am new to programming.
   
 ### 📈 Github Statistic
 <p align="left" dir="auto">
-    <a href="https://github.com/whysaputro">
+    <a href="https://github.com/haryodwi">
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haryodwi&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haryodwi&layout=compact&langs_count=8&theme=ayu-mirage" style="max-width: 100%;"/>
     </a>
