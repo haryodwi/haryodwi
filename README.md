@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/wave.gif" width="30px"> , I'm Haryo!
  
-Currently i am a student in Asia Cyber University, majoring Informations Systems. Computer Science is not a new thing to me, yet developing systems is a totally different ball game. Now i an intensive training mode trying to be an expert in IT. I have interest in Systems Development, Data Science, and Machine Learning. I really hope in the future i will be able contribute in global tech company!
+Currently i am a student in Asia Cyber University, majoring Informations Systems. Computer Science is not a new thing to me, yet developing systems is a totally different ball game. Now i am in an intensive training mode trying to be an expert in IT. I have interest in Systems Development, Data Science, and Machine Learning. I really hope in the future i will be able contribute in global tech company!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
  
