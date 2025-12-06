@@ -3,10 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
  
 - 📫 How to reach me: haryodwi@gmail.com 
- 
 
-![Profile Views](https://gpvc.arturio.dev/haryodwi)
-<a href="https://www.linkedin.com/in/haryodwi/"><img src="https://img.shields.io/badge/-linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5" /></a>
 
 ### ⚡ Tools and Technologies:
 ![Intellij_IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
